@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/bin/Debug/netcoreapp2.1/Lab-11-Blockbuster.deps.json
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/bin/Debug/netcoreapp2.1/Lab-11-Blockbuster.runtimeconfig.json
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/bin/Debug/netcoreapp2.1/Lab-11-Blockbuster.runtimeconfig.dev.json
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/bin/Debug/netcoreapp2.1/Lab-11-Blockbuster.dll
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/bin/Debug/netcoreapp2.1/Lab-11-Blockbuster.pdb
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.csprojAssemblyReference.cache
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.AssemblyInfo.cs
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.dll
+/Users/Steve/Projects/Lab-11-Blockbuster/Lab-11-Blockbuster/obj/Debug/netcoreapp2.1/Lab-11-Blockbuster.pdb
