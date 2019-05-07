@@ -33,7 +33,7 @@ namespace Lab_11_Blockbuster
              * - - Get user input
              * - - Use inputted index to grab a movie from the list
              * - - Play movie
-             */           
+             */
         }
     }
 }

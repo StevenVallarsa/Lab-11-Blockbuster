@@ -81,6 +81,7 @@ namespace Lab_11_Blockbuster
 
             Console.WriteLine();
             Movies[index - 1].PrintInfo();
+            //Movies[index - 1].Play();
 
         }
     }

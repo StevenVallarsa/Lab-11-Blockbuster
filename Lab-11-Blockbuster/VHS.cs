@@ -21,8 +21,8 @@ namespace Lab_11_Blockbuster
             {
                 Rewind();
             }
-
-            Console.WriteLine(Scenes[CurrentTime]);
+            Console.WriteLine();
+            Console.WriteLine($"Now playing scene {CurrentTime + 1} - Scenes[CurrentTime]");
             CurrentTime++;
         }
 
