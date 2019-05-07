@@ -5,7 +5,6 @@ namespace Lab_11_Blockbuster
 {
     public class Movie
     {
-
         public string Title { get; set; }
         public string Category { get; set; }
         public int RunTime { get; set; }
@@ -21,9 +20,10 @@ namespace Lab_11_Blockbuster
 
         public virtual void PrintInfo()
         {
-            Console.WriteLine($"Movie: {Title}");
+            Console.WriteLine($"Movie:    {Title}");
             Console.WriteLine($"Category: {Category}");
-            Console.WriteLine($"Runtime: {RunTime}");
+            Console.WriteLine($"Runtime:  {RunTime}");
+            Console.WriteLine();
             PrintScenes();
         }
 

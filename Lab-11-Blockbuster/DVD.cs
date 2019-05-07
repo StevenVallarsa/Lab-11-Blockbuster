@@ -15,7 +15,32 @@ namespace Lab_11_Blockbuster
         {
             Console.Write("What scene would you like to view? ");
 
-            int index = int.Parse(Console.ReadLine());
+            int index = 0;
+            bool run = true;
+            while (run)
+            {
+                string input = Console.ReadLine();
+
+                try
+                {
+                    index = int.Parse(input);
+                    if (index < 1 || index > Scenes.Count)
+                    {
+                        throw new Exception("Sorry, that's out of range. Try again: ");
+                    }
+                    run = false;
+                }
+                catch (FormatException)
+                {
+                    Console.Write("I don't know what you mean? Try again: ");
+                }
+                catch (Exception e)
+                {
+                    Console.Write(e.Message);
+                }
+            }
+
+
 
             Console.WriteLine(Scenes[index - 1]);
         }

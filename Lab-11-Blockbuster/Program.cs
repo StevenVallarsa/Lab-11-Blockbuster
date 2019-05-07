@@ -7,18 +7,10 @@ namespace Lab_11_Blockbuster
     {
         static void Main(string[] args)
         {
-            List<string> scenes = new List<string>();
-            scenes.Add("Early man");
-            scenes.Add("To the moon");
-            scenes.Add("Monolith");
-            scenes.Add("Trip to Jupiter");
-            scenes.Add("HAL freaks out");
-            scenes.Add("The Star Child");
- 
-            Movie Blockbusters = new DVD("2001", "Sci-Fi", 160, scenes);
 
-            Blockbusters.PrintInfo();
-            Blockbusters.Play();
+            Blockbuster bb = new Blockbuster();
+
+            bb.CheckOut();
 
             /* Movie()
              * - all the props
